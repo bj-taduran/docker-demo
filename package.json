@@ -7,7 +7,7 @@
     "test": "npm install inherits && mocha"
   },
   "engines": {
-    "node": "v19.7.0"
+    "node": "v18.13.0"
   },
   "dependencies": {
     "express": "^4.14.0",
